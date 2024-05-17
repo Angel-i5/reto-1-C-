@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 1 C#\imc\bin\Debug\net8.0\imc.exe
+C:\Users\Angel\Desktop\Reto 1 C#\imc\bin\Debug\net8.0\imc.deps.json
+C:\Users\Angel\Desktop\Reto 1 C#\imc\bin\Debug\net8.0\imc.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 1 C#\imc\bin\Debug\net8.0\imc.dll
+C:\Users\Angel\Desktop\Reto 1 C#\imc\bin\Debug\net8.0\imc.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.dll
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\refint\imc.dll
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\imc.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 1 C#\imc\obj\Debug\net8.0\ref\imc.dll

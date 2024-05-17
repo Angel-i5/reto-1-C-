@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("imc")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("area-y-perimetro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f727fd55de9f5903a6a3b05a00339128a3319b")]
-[assembly: System.Reflection.AssemblyProductAttribute("imc")]
-[assembly: System.Reflection.AssemblyTitleAttribute("imc")]
+[assembly: System.Reflection.AssemblyProductAttribute("area-y-perimetro")]
+[assembly: System.Reflection.AssemblyTitleAttribute("area-y-perimetro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

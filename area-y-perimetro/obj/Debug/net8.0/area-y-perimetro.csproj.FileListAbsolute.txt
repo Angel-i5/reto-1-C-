@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\bin\Debug\net8.0\area-y-perimetro.exe
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\bin\Debug\net8.0\area-y-perimetro.deps.json
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\bin\Debug\net8.0\area-y-perimetro.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\bin\Debug\net8.0\area-y-perimetro.dll
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\bin\Debug\net8.0\area-y-perimetro.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.dll
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\refint\area-y-perimetro.dll
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\area-y-perimetro.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 1 C#\area-y-perimetro\obj\Debug\net8.0\ref\area-y-perimetro.dll

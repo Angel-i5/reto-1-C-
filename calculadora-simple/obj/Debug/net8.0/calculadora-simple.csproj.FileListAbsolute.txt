@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\bin\Debug\net8.0\calculadora-simple.exe
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\bin\Debug\net8.0\calculadora-simple.deps.json
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\bin\Debug\net8.0\calculadora-simple.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\bin\Debug\net8.0\calculadora-simple.dll
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\bin\Debug\net8.0\calculadora-simple.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.dll
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\refint\calculadora-simple.dll
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\calculadora-simple.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 1 C#\calculadora-simple\obj\Debug\net8.0\ref\calculadora-simple.dll

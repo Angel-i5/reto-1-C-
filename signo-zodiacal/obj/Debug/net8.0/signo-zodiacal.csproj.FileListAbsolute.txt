@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\bin\Debug\net8.0\signo-zodiacal.exe
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\bin\Debug\net8.0\signo-zodiacal.deps.json
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\bin\Debug\net8.0\signo-zodiacal.runtimeconfig.json
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\bin\Debug\net8.0\signo-zodiacal.dll
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\bin\Debug\net8.0\signo-zodiacal.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.dll
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\refint\signo-zodiacal.dll
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.pdb
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\signo-zodiacal.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Reto 1 C#\signo-zodiacal\obj\Debug\net8.0\ref\signo-zodiacal.dll
